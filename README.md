@@ -31,3 +31,8 @@ And to indicate if for personal use
 ### Navigation your react app will get
 ![image](./dashboard/links-1.png)
 
+
+# @softwareasaservice/events
+
+### User journey automations 
+![image](./events/3line.png)
